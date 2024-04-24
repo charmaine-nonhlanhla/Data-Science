@@ -8,7 +8,7 @@ Welcome to my Data Cleaning and Analysis Repository! This repository provides a 
    - Explore data cleaning and analysis using STATA. This directory contains do-files, datasets, and documentation to help you leverage STATA's powerful statistical capabilities for your projects.
 
 2. **SQL**
-   - Master SQL for data manipulation and analysis. Here, you will find SQL scripts, tutorials, and best practices for querying and transforming data in relational databases.
+   - Learn SQL for data manipulation and analysis. Here, you will find SQL scripts, tutorials, and best practices for querying and transforming data in relational databases.
 
 3. **JavaScript**
    - Dive into data visualization and analysis with JavaScript. This directory hosts JavaScript scripts, libraries, and examples for creating interactive data visualizations and performing analysis tasks in web environments.
